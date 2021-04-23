@@ -13,7 +13,7 @@ Real time Swift iOS Chat with Firebase.
 * Chat pagination
 * Custom map design
 ## Demo
-![](Demo/Group.pdf)
+![](Demo/0.png)
 ![](Demo/1.png)
 ![](Demo/2.png)
 ![](Demo/3.png)
